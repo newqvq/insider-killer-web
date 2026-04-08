@@ -11,7 +11,7 @@
 ## 本地运行
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/newqvq/insider-killer-web
 cd insider-killer-web
 npm install
 npm run dev
